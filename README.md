@@ -15,14 +15,14 @@ You will be guided to use a cloud-based development environment using Visual Stu
 
 ## Instructions 
 
-Inside the `.instructions` folder you will find a number of markdown files that contain the instructions for this workshop.
+To begin the tutorial, follow these steps:  
+1. [Start the development environment.](</.instructions/1. setup.md>)  
+2. [Do the warmup exercise to learn about Copilot features.](</.instructions/2. core exercises.md>)
+3. [Solve the challenges by yourself.](</.instructions/3. challenge exercises.md>)
 
-Filename | Description
---- | ---
-[1. setup.md](</.instructions/1. setup.md>) | Instructions for launching development environment.
-[2. core exercises.md](</.instructions/2. core exercises.md>) | Instructions for the core exercise of this workshop.
-[3. challenge exercises.md](</.instructions/3. challenge exercises.md>) | Challenge exercises for participants to complete.
-[4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
+Once you have completed the workshop:
+1. Take the quiz.  
+2. Fill out the survey.
 
 
 ## Acknowledgements
