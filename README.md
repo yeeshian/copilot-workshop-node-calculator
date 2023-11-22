@@ -1,11 +1,11 @@
-# GitHub Copilot Workshop
-This is a guided workshop to help you learn how to use GitHub Copilot using a Node Calculator.
+# GitHub Copilot Hackathon
+This is a guided hackathon to help you learn how to use GitHub Copilot using a Node Calculator.
 
 ## Enhance a Node Calculator app using GitHub Copilot
 
 <img width="400" alt="Node Calculator image" src="./assets/calculator-copilot.jpg">
 
-In this fun workshop, you will learn how to use GitHub Copilot to enhance a node-based Calculator, with little to no coding experience required.
+In this fun hackathon, you will learn how to use GitHub Copilot to enhance a node-based Calculator, with little to no coding experience required.
 
 The project contains a simple node.js application that exposes REST APIs to perform arithmetic on integers, and provides a test suite with mocha and chai.
 
@@ -20,11 +20,11 @@ To begin the tutorial, follow these steps:
 2. [Do the warmup exercise to learn about Copilot features.](</.instructions/2. core exercises.md>)
 3. [Solve the challenges by yourself.](</.instructions/3. challenge exercises.md>)
 
-Once you have completed the workshop:
-1. Take the quiz.  
+Once you have completed the challenges:
+1. Take the quiz.
 2. Fill out the survey.
 
 
 ## Acknowledgements
 
-This workshop content is adapted from [GitHub Copilot Workshops](https://copilot-workshops.com/). A special thanks to all awesome Hubbers who have contributed to the workshops.
+This hackathon content is adapted from [GitHub Copilot Workshops](https://copilot-workshops.com/). A special thanks to all awesome Hubbers who have contributed to the workshops.
